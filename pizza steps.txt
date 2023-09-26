@@ -2,6 +2,6 @@ decide I want Pizza
 figure out where is near
 look at coupons
 decide what to order
-calll pizza place
+call pizza place
 pick up order
 Enjoy!
